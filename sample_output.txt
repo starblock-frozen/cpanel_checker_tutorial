@@ -1,0 +1,5 @@
+# CPanel Checker Results
+# Generated on 2025-12-05 07:21:00
+# Checking both HTTP and HTTPS protocols
+
+https://flash.uhostmk4.com:2083/:oougorce:oiX=uJXa   [https://flash.uhostmk4.com][oougorcepetrov.edu.mk][DOMAIN WORK][CPANEL]
